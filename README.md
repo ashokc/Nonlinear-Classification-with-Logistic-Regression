@@ -2,9 +2,9 @@
 
 This is the source code to go along with the blog article
 
-[Nonlinear Classification with Logistic Regression](http://xplordat.com/2019/02/21/multiclass-classification-with-word-bags-and-word-sequences/)
+[Nonlinear Classification with Logistic Regression](http://xplordat.com/2019/03/13/logistic-regression-as-a-nonlinear-classifier/)
 
-Logistic Regression has traditionally been used a linear classifier, i.e. when the classes can be separated in the feature space by linear boundaries. The blog is about using Logistic Regression when the separation/decision boundaries may be nonlinear. 
+Logistic Regression has traditionally been used as a linear classifier, i.e. when the classes can be separated in the feature space by linear boundaries. The blog is about using Logistic Regression when the separation/decision boundaries may be nonlinear. 
 
 ## Dependencies
 
